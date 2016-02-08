@@ -1,7 +1,7 @@
 name: freetheleashkids
 favicon: null
-layout_spectrum: 0.09106404380872846
-typography_spectrum: 0.9165160483680665
+layout_spectrum: 1
+typography_spectrum: 0.48797
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#3a8ba9'
     - '#3c4e76'
     - '#000525'
-  brandStrength: 0.5
+  brandStrength: 0.1875
   lightness: 0.07485963054932654
   saturation: 0.993834079708904
   rhythmicContrast: 0.09721300401724875
