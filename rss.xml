@@ -2,14 +2,28 @@
     <channel>
         <title><![CDATA[freetheleashkids]]></title>
         <description><![CDATA[freetheleashkids]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/freetheleashkids/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 08 Feb 2016 18:32:34 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 08 Feb 2016 18:39:55 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/freetheleashkids/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[About Me]]></title>
+            <description><![CDATA[<article><h1>About Me</h1><p>I work for Swain Destinations, a travel company that specializes in customized trips all over the world. I love to take pictures, put myself in uncomfortable situations and will eat anything. The world is an incredible place. See and experience as much as you can.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a9496400-15f9-4806-9c0d-3e49ab7a6d71.jpg"></article>]]></description>
+            <link>https://thegrid.ai/freetheleashkids/about-me/index.html</link>
+            <guid isPermaLink="false">edbf8e8a-f256-46e9-b50a-143ab540d051</guid>
+            <pubDate>Mon, 08 Feb 2016 18:36:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[About]]></title>
+            <description><![CDATA[<article><h1>About</h1><p>I work for Swain Destinations, a travel company that specializes in customized trips all over the world. I love to take pictures, put myself in uncomfortable situations and will eat anything. The world is an incredible place. See and experience as much as you can.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f9293e473d1f8881ce825bd97a72f4c045e6955c.jpg"></article>]]></description>
+            <link>https://thegrid.ai/freetheleashkids/about/index.html</link>
+            <guid isPermaLink="false">b14f3af4-e550-403e-9c27-970ef02f7714</guid>
+            <pubDate>Mon, 08 Feb 2016 18:31:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Papua New Guinea in 46 Images]]></title>
             <description><![CDATA[<article><h1>Papua New Guinea in 46 Images</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4ae7b6e6b79b3bd969544eda906c61bcca85a944.jpg"></article>]]></description>
-            <link>undefinedpapua-new-guinea-in-46-images/index.html</link>
+            <link>https://thegrid.ai/freetheleashkids/papua-new-guinea-in-46-images/index.html</link>
             <guid isPermaLink="false">0c0574dd-fc74-4cde-b544-e750c777fa38</guid>
             <pubDate>Mon, 08 Feb 2016 18:27:50 GMT</pubDate>
         </item>
